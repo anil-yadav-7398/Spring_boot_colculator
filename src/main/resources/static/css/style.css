@@ -1,0 +1,17 @@
+body {
+    font-family: Arial;
+}
+
+.card {
+    border-radius: 15px;
+}
+
+button {
+    height: 60px;
+    font-size: 20px;
+}
+
+#display {
+    height: 60px;
+    font-size: 28px;
+}
